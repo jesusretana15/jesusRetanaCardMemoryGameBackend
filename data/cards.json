@@ -1,0 +1,112 @@
+{
+	"cards": [
+		{
+			"id": 1,
+			"emoji": "😀",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 2,
+			"emoji": "😂",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 3,
+			"emoji": "😡",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 4,
+			"emoji": "🥶",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 5,
+			"emoji": "🤢",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 6,
+			"emoji": "👿",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 7,
+			"emoji": "🤡",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 8,
+			"emoji": "🤖",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 9,
+			"emoji": "💩",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 1,
+			"emoji": "😀",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 2,
+			"emoji": "😂",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 3,
+			"emoji": "😡",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 4,
+			"emoji": "🥶",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 5,
+			"emoji": "🤢",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 6,
+			"emoji": "👿",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 7,
+			"emoji": "🤡",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 8,
+			"emoji": "🤖",
+			"isDisconvered": false,
+			"isSelected": false
+		},
+		{
+			"id": 9,
+			"emoji": "💩",
+			"isDisconvered": false,
+			"isSelected": false
+		}
+	]
+}

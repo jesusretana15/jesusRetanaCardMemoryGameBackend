@@ -1,6 +1,5 @@
 "use strict";
-
-// const cards = require("./data/cards.json");
+ 
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
